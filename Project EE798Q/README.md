@@ -17,7 +17,7 @@ The LSTM model uses historical stock price data to predict future stock prices. 
 
 1. Clone the repository to your local machine:
 ```
- git clone https://github.com/your-username/stock-price-prediction.git
+ git clone https://github.com/Chetan7595/Stock-Price-Prediction.git
 ```
 
 
@@ -54,7 +54,3 @@ Contributions to this project are welcome. To contribute, please follow these st
 4. Push the changes to your forked repository.
 
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
